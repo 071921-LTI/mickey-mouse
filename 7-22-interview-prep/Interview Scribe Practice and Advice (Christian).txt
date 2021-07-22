@@ -1,0 +1,20 @@
+- When asked about yourself focus on the technical side of stuff, schooling and all that.
+
+    Interviewer: Tim Saint Dennis
+    Interviewee: David Veller
+    Scribe: Christian Osada
+
+Question: What is Java?
+- Java is an OOP language. It is a mature language with plenty of  documentation. it doesn't always hav tp OO it can also be functional. it is based on Oracle and recieves constant updates.
+
+Question: What are som primitive data typesi n java?
+- Primitive data types are data types that aren't classs. There are int, double float, char, var . . . . .
+
+Question: Can you tell me what is the difference between method overloading and method overriding?
+- Method overloard is when you have two methods in the same class with the same name but diffferent parameters. method overriding is when you inherit aclass but instead of using the implicit methods defined by the parent you overrite them with new ones.
+
+Question: What are the rules for modifying a method signature for an overload?
+- You can change the access modifier and the number/type of parameters.
+
+Question: Tell me about your last project?
+- I worked with my schools undergraduate computer engineering program on making a program that could converte a logic equation into a logical schematic so that teachers wouldn't have to draw them out themselves.
