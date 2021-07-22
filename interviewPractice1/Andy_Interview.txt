@@ -1,0 +1,9 @@
+Andy's Interview
+		-Is Java pass-by-value or pass-by-reference? (1.0)
+			It is passed by value.
+		-Can static method access instance variable?(0)
+			Not sure.
+		-What is Maven? (0.75)
+			It is a repositories that has many library that can be used in the project. It has many helpful tools.
+		-List methods in the Scanner class: (0.5)
+			scanner.nextInt to take integer input from user
