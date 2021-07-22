@@ -1,0 +1,14 @@
+Sergio's Interiew
+                -What is Java? (.75)
+                                -Pretty good detail on what java is and is not
+                                -Some details I don't understand so I'm not sure exactly how good of an answer it is.
+                -What is JDK, JRE, and JVM? (.5)
+                                -stated what each acronym stands for
+                                -went into detail about what each contains
+                                                -Stopped after JDK
+                -What are primitive data types in Java? (0)
+                                -unsure of this answer. doesn't remember
+                -What are the four concepts of OOP and what are the benefits of using them (.75)
+                                -listed: polymorphism, encapsulation, ...
+                                -explained both concepts mentioned with minimal examples of each instead of their definition
+                                -Remembered inheritance when reminded that it exists (as well of abstraction)
