@@ -1,0 +1,28 @@
+	Interviewer: Michael Wilder
+	Interviewee: Nick Urban
+	Scribe: Chris Pantani
+
+	Tell me about yourself
+	from middle town Connecticut likes to hike
+	
+	last project you worked on
+	made a personal GitHub to showcase skill, made an NBC project, and database using C# and SQL
+	
+	did you use a software dev method
+	used the SOLID principles to make more flexible 
+	
+	what challenges did you face and how did you overcome
+	steep learning curve, performed research online, read through documentation
+	
+	what is your favorite thing about technology
+	quicker, more automated, makes life easier
+	
+	tell me about a time you had a disagreement with a team mate and how you overcame it
+	one time I used to work at a hotel as a valet and supervisor had a temper. closed the door without leaving widows cracked and 
+	was threatened for doing so, talked it over with supervisor and there was no more drama
+	
+	If you were given a new technology to learn for a project in a week, how would you tackle this
+	self study and watch YouTube videos understand on a macro level how it works and learn more about certain things or facets for the project, practice application
+	
+	what is Java
+	java is an OOP language strongly typed used for variety of things desktop application, video games
