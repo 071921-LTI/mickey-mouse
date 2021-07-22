@@ -1,0 +1,18 @@
+Interviewer:Andy W.
+interviewee: Enrique 
+Scribe: Sergio V.
+
+Questions 1: What is the difference between static and final variables?
+"Final varaiable cannot be manipulated." 
+Not sure about final variables
+(0.5)
+Question 2:Where are Strings stored?
+"stored in string pool. They are in the heap"
+(1)
+Question 3: Can you force garbage collection in Java?
+"No but you can suggest it. "
+(1)
+Question 4: What is the difference between method overloading and overriding? 
+Overloading is when you have multiple methods in the sam class, same name, but different number of arguments.
+Overriding is when you have a method in a child class and want to use a different implementation in the child class.
+(1)

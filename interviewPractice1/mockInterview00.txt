@@ -1,0 +1,28 @@
+Interviewer: Nick
+Interviewee: Chris
+Scribe: Michael
+
+Question || Note || Answered properly (1pt)
+1. Tell me about yourself 
+	-Chris from Conn 26 new puppy new house. Interviewee had 1 uh. (1/1pt)
+
+2. Tell me about your last project(you should ALWAYS include the technology stack in your explanation)
+	-Last project created a web based server to navagate between concerts. Python. Great well said answer. (1/1pt)
+
+3. Did you use a software development methodology 
+	-Full Scrum, daily meetings, Well defined roles (1/1pt)
+
+4. What challenges did you face How did you overcome those challenges
+	-Biggest challeges was figuring out roles. Some better at backend and some better at frotend. (1/1pt)
+
+5. What is your favorite thing about ____ (technology)
+	-Favorite thing is how connected everything is. (1/1pt)
+
+6. Tell me about a time that you had a disagreement with a teammate. How did you overcome this
+	-One of the projects had very bad communication, third party group to figure out how to divide the work. (1/1pt)
+
+7. If you were given a new technology to learn for a project in a week, how would you tackle this
+	-tutorials and online learning schools, assessmnts. 1 uh. (1/1pt) 
+
+8. What is java?
+	-OOP uses class supports multithreading, a lot of changes made to it, Garbage collection. (1/1pt)
