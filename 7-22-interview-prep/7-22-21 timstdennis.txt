@@ -1,0 +1,27 @@
+Interviewer: Christian Osada
+Intervewee: Timothy St. Dennis
+Scribe: David Veller
+
+What is JRE/JDK/JVM?
+
+JRE is where java programs are executed and running
+JDK is where all dev work happens
+JVM acts as emulator for any system to run java app
+
+Where are strings stored?
+
+Stored in string pool unless take a certain measure, all strings are derived from that pool, change one string change all string
+
+Can you force gc, when is object available?
+
+Yes you can force, eligible when ???
+
+What happens when contructor is not defined? Can you still instantiate?
+
+Still can, defualt constructor where nothing in your class gets set, nothing gets done
+For ex no variables would have proper values set
+
+Give week to learn new tech?
+
+Day trying to read documentation, run tests to see what cna and cant do
+After that start working on it
