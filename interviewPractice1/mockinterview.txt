@@ -1,0 +1,22 @@
+Interviewee: Alan
+Interviewer: Enrique
+Scribe: Andy
+
+1. What are the differ
+	-There are class scope, method scope, block scope, object scope
+	-Lifetime of the variable in the class scope the variables will live lifetime of the 		class
+	-Lifetime of the method scope will live lifetime of the method
+
+2. String, StringBuilder, StringBuffer
+	-Threadsafe, running time for StringBuilder for
+	-string is immutable slowest for all three
+	-StringBuilder and String they are mutable
+	-StringBuilder mutable not thread safe fastest
+	-StringBuffer thread safe slower
+
+3. What is wrapper class?  
+	Autoboxing: converting wrapper to primitve, autoboxing: primitive to wrapper
+
+4. Object vs Class
+	class is blueprint of object
+	object is strings array, is blueprint of object  
