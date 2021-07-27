@@ -1,0 +1,27 @@
+Andy:
+__________________
+
+yesterday: did the user and employee main screen interface, creted login and auth for both. used DAO stuff for both
+Today: try to make database and choose a product, and make a data base and interface for that
+problem: how to connect my databse to my code and how to access it
+
+
+
+David:
+__________________
+
+yesterday: set up file structure and project structure, did a lot of work on menues, 
+today: work on menus today 
+problem: connecting database, don't want to start working on it until knows how to use
+
+
+
+Nick:
+__________________
+
+yesterday: worked on structuring project, creating abstractions with interfaces, and classes
+today: finish structring project
+problem: trying to figure out what should be in the DAO vs Service layer, and how to separate them effectively
+
+
+
