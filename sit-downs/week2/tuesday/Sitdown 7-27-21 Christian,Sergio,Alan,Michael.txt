@@ -1,0 +1,23 @@
+Leader: Christian
+Notetaker: Sergio 
+Member: Alan
+Member: Michael
+
+Christian
+	- setting up objects in project. (yesterday)
+	- work with the interface (today)
+	- No issues
+Alan 
+	- created menu for project (yesterday), created class for customers 
+	- connect database (today)
+	- no issues
+
+Michael
+	- created classes and packages (yesterday)
+	- start coding on classes (today)
+	- No issues
+Sergio
+	- set up classes(yesterday)
+	- review today material and keep developing code for classes(today)
+	- compilation errors
+	
