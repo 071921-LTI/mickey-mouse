@@ -1,0 +1,25 @@
+Tim
+yesterday: focused on structuring out program, main menu is more refined. 
+	getting all screen menus ready and connected.
+	
+today: working on expanding screen menus. plans on reusing abstract function instead of SYSO. 
+
+blockers: are only time
+
+
+Enrique
+yesterday: worked in the models package, figured out fields and methods that would be needed 
+
+today: continue work today and move into creating front end to prepare for DB
+
+blockers: getting the hang of the language and new project structure
+
+advice: Tim - keep practicing and experimenting to see what works and what doesn’t 
+
+
+Chris
+yesterday: rebuilt Thursday authentication project to build broad authentication methods. worked on login menu and main customer menu functions
+
+today: building DB schema 
+
+blockers: unsure how to integrate DB and how to design certain methods before that are needed before moving on
