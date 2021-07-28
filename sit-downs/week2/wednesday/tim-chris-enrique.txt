@@ -1,0 +1,28 @@
+Tim
+    -yesterday
+        -database didn't persist
+        -got scoping of program mostly done
+    -today
+        -connect database
+    -blockers
+        -database deleted itself and have to remake itself
+
+Chris
+    -yesterday
+        -made a new database
+            -disappeared so had to make a new schema
+    -today
+        -connect to correct database and remake tables
+    -blockers
+        -issues with dbeaver password
+
+Enrique
+    -yesterday
+        -finished models (sorta... realized today I  was missing stuff)
+        -worked on the menu screen a bit using dummy log in
+    -today 
+        -add missing fields and methods from models
+        -connect db
+        -write dao methods
+    -blockers
+        -remembering syntax for both sql and java
