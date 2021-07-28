@@ -1,0 +1,20 @@
+Christian
+yesterday: finished work on interface and menues
+today: set up database and if time implement lecture 
+no blockers
+
+Alan
+yesterday connect java app to database, added methods to menu
+today continue adding functionality
+no blockers
+
+Michael
+yesterday: wrote menu screen options, populated database
+today: add connection to database, finish menu screen
+no blockers
+
+Sergio 
+yesterday: keep working on class implementation
+today: need to decouple classes to follow class example
+blockers: gitbash still not working but using powershell for a workaround
+
