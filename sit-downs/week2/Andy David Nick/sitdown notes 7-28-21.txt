@@ -1,0 +1,22 @@
+David:
+_________
+yesterday: worked on project menu, didn't really work on back end, set up dbeaver database stuff
+today: restarting everything, whole project
+blocker: having trouble with TDD in regards to database, how to test that stuff
+
+
+
+Andy:
+_________
+yesterday: made database model of user in project, had all classes using the dao method, tried to make more interaces, 
+today: try to connect to database
+blocker: trying to figure out how to do arraylist and how to separate tables in database.
+
+
+
+
+Nick:
+_________
+yesterday: worked on project and building logic/service
+today: try to finish logic/service part of project and if I have time begin database work
+blocker: figuring out how to connect and configure database
