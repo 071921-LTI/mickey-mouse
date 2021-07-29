@@ -1,0 +1,21 @@
+Tim
+yesterday - assisted with peer programming assignment
+
+today - restructure database and coding project0
+
+blockers - has to restructure database beacuase of misunderstanding project requirments, already resolved changing shop style to auction style
+
+enrique 
+
+yesterday -  assisted with peer programming assignment
+
+today - check models and connection for database
+
+blockers - time, 
+
+Chris 
+yesterday - assisted with peer programming assignment
+
+today - finish db schema and create and implement addEmployee and addCustomer
+
+blockers - time, figuring out sql logic to make pending sales workout
