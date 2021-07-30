@@ -1,0 +1,19 @@
+Nick: scribe
+Andy: interviewer
+David: interviewee
+
+______________________________________
+
+
+q1: sql is a data query language, used for data manip and retrieval, includes postgres nosql and others
+
+q2: select from, choose what you want to select from database. can use where to further refine results
+
+q3: has to first begin, then all statements have to pass with no exceptios, else it reverts back to save point that was set by user or beginning of transhaction
+ has to commit the end
+
+q4: have col name serial type with primary key keywords
+
+q5: scalar take in one input and change ouptput, aggregate functions and return one output
+
+q6: things are good, close to finishing project and will implement testing soon
