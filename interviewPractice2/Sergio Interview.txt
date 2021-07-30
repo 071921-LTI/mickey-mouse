@@ -1,9 +1,0 @@
-Sergio Interview:
-	1: Explain what SQL is:(7)
-		It is script query language, it is used on Database. It works with datas and 		manipulates the data
-	2: Explain what Group by/Orderd by clause (0)
-		Don't Remember.
-	3: What are types of joins: (5)
-		Inner join, Outer Join.
-	4: How do you face challenges:
-		See what's need to be done and solve it one by one.
