@@ -1,0 +1,17 @@
+interviewer - David
+interviewee - Nick
+scribe - Andy
+
+1. what are the 5 sublanguages of sql?
+	unsure about
+2.delete drop truncate
+	drop deletes everything truncate certain rows
+3.cascade delete
+	delete table will delete foreign key and primar ykeys
+4. scalar vs aggregrate
+	aggreagrate pulldata together
+	scalar unsure about
+5. what is a schema
+	- is like a table, stores data
+6.how is your week
+	-focusing on the project, questions will refer to notes
