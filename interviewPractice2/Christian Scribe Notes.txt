@@ -1,0 +1,16 @@
+Michael Interviewee
+Sergio Interviewer
+Christian Scribe
+
+Q: Can you explain to me what a singelton pattern is?
+A: I can't remember.
+Feedback: A design pattern ment to make sure there is only a single instantiation of a class as often as possible
+
+Q: Can you define the word schema?
+A: A schema is . . . . . a database object that is a collection of tables and scripts and things.
+
+Q: What are the advantages of logging?
+A: You can identify errors, get debug events, or capture information throughout the run of the information.
+
+Q: What is your favorite thing about SQL?
+A: It's fun to manipulate, you can get a lot of different information out ofi t and process large amounts of info quickly.
