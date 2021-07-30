@@ -1,0 +1,28 @@
+Interviewer: Nick
+Interviewee: Andy
+Scribe: David
+
+WHERE vs HAVING
+
+	WHERE is for comparing something to a certain value. Having is a property that a column has.
+
+What conditions lead to orphan records?
+	
+	??
+
+What are some SQL data types?
+
+	Numerics, int, varchar, char, dates, double, currency
+
+What are the types of joins and give examples
+
+	Inner outer left and right. Outer join shows results in both tables. Left is show only left. Inner join is only show intersection. 
+
+Whats the purpose of a view/index?
+
+	View is used when you want to reuse a query, not a physical stored object. Used to show a tables contents.
+	Index is used for ??
+
+How are things going?
+	
+	Working on project, progress is 80% but still have to do offers.
