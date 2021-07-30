@@ -1,0 +1,9 @@
+Tim
+	SQL sublanguages
+		-couldn't remember the last one
+		-named them but didn't say what they are
+	Define Schema
+		-"blueprints of the table setup"
+	Explain the difference between union, union all, and intersect
+		-good explanation of union and union all
+		-said the opposite of what intersect is
