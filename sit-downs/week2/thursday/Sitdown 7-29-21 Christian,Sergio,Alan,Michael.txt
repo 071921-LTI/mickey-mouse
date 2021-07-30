@@ -1,0 +1,22 @@
+Leader: Christian
+Note taker: Sergio
+
+Christian
+Yesterday: Set up database and if time implement lecture 
+Today:Working on databse to connect to program. Finish implementing methods to interact with database.
+No blockers
+
+Alan
+Yesterday: Continue adding functionality
+Today: Create tables for database. Work on test for methods. Write to dao and see change in database.
+No blockers
+
+Michael
+Yesterday: Add connection to database, finish menu screen
+Today: Rebulding database that was lost. Getting connection to database.
+No blockers
+
+Sergio
+Yesterday: Fixed gitbash issue. Small set back while working on class methods and decoupling.
+Today: Continue working on class implementations and try to set up database.
+No blockers
