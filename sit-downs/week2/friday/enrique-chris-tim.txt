@@ -1,0 +1,29 @@
+Tim
+	Yesterday
+		-more or less got framework
+	Today
+		- Got a lot done!
+	Blockers
+		-time
+
+Chris
+	Yesterday
+		-rebuilt database - went from shop to 'ebay'
+		-until auth that was originally built in file IO
+	Today
+		-Item postgres
+		-customer postgres
+		-can add employees
+	Blockers
+		-time
+
+Enrique
+	Yesterday
+		-connected SQL
+		-finished login
+	Today
+		-can add items
+		-can make offers
+	Blockers
+		-time
+		
