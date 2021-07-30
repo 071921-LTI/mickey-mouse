@@ -1,0 +1,10 @@
+Enrique's interview
+Chris: Interviewer
+Enrique interviewee
+Q1: Difference between WHERE and HAVING?
+Enrique: Where is basically filtering the results based on what a certain column equals a certain value. Having...does not remember.
+Q2: What are some SQL data types?
+Enrique: Numeric, Integer, VARCHAR, TEXT, DATE, Datetime?, Time, Boolean
+Q3: What are the types of joins, and explain the differences.
+Enrique: Inner join...is.....hm. Cannot visualize it. Outer Join would be joining the tables, but only with the information that they don't share...
+		Inner Join would be all of the information. Left Join and Right Join, Full Join?
