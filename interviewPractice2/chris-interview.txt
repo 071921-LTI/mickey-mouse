@@ -1,0 +1,7 @@
+Chris Pantani
+	Diff between Delete Drop and Truncate
+		- good answer!
+	Normalization and it's levels
+		- good answer!
+	How would you setup a primary key that automatically increments with each insert?
+		-perfect answer!
