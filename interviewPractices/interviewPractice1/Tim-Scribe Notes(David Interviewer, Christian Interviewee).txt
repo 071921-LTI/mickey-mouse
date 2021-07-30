@@ -1,0 +1,27 @@
+Interviewer: David
+Interviewee: Christian
+Scribe: Tim
+
+Question 1:
+"What is Java"
+	"Java is an object based programming language, that runs on the Java virtual machine, and that can run on any device"
+	
+"What is the difference between a stack and a heap?"
+	"A heap is where objects are stored...wait, they're both objects, aren't they? *Had some general confusion regarding Stack/Heap*"
+
+
+"Is Java passby value, or passby reference?
+	"Passby value"
+-Can you elaborate
+	"You're only passing
+	
+"What is the difference between == and .equals()?"
+	".Equals() checks if they're the same in memory, == checks if they're the same value"
+	
+"Tell me about yourself"
+	"Enjoys swimming, currently reading the Dune series. Likes Video Games."
+	
+Notes on the interview
+-There was some general confusion regarding Stack and Heap, which was cleared up.
+-.Equals() and == were swapped.
+-Regarding Soft skills, focus more on the technical background, rather than personal background. I.E: Eduction, etc.
