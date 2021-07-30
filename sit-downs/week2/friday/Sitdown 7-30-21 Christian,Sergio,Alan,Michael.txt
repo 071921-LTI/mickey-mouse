@@ -1,0 +1,22 @@
+Leader: Christian
+Note taker: Sergio
+
+Christian
+Yesterday: finshed implementing methods for interacting wit the program
+Today: connecting the interface.
+No blockers
+
+Alan
+Yesterday: created interfaces of customer dao
+Today: implementing functions of daos
+No blockers
+
+Michael
+Yesterday: recreated tables
+Today: finish implementation for daos to get info from database
+No blockers
+
+Sergio
+Yesterday: created the bonus classes in case time allows for implementation and worked on class methods. did not get to implementing database data retrieval 
+Today: continue working on class implemenatation and other services throught out the weekend.
+No blockers
