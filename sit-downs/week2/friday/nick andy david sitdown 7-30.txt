@@ -1,0 +1,24 @@
+nick andy david sitdown 7-30-21
+_________________________________
+
+
+Nick:
+__________________
+yesterday: fixed an issue with removing objects from a list, created the dao layer
+today: test and make sure the dao layer works for CRUD and can be used in application
+blockers: not sure if it will work as intended
+
+
+andy:
+__________________
+yesterday: did all the employee and item dao interfaces and classes,
+today: implement it 
+blocker: nothing really at the moment
+
+
+
+david:
+__________________
+yesterday: finished most of project, have everything thats mainly on the project done, 
+today: do at least one extra thing, most likely testing
+blocker: tired, it's friday
