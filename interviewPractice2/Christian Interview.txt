@@ -1,0 +1,14 @@
+Interviewer: Alan 
+Interviwee: Christian
+Scribe: Sergio 
+
+Q1: Tell me about DBMS
+	Data base management system maintain and easily manage the interface.
+Q2: What are the SQL sub languages?
+ 	DCL,DML,DQL
+ 	-Answer missed two other EDL QCL
+Q3: WHat is constraints in sequel?
+ 	They are sort of ways to limt the data you can put on the data table. can prevent repeated values.
+Q4: What are the different keys in SQL
+	There is primary(unique identifier), foreign key(take a key from another table), composite key(multiple data types)
+	-from notes the third key is candidate key.
