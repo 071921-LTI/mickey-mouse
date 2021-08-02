@@ -1,0 +1,18 @@
+Scribe: Christian Osada
+
+Christian:
+	- Yesterday: Finshed adding functionality to all of the program.
+	- Today: Adding loggers and JUnit testing
+	- Blocker: Having issues with mockito
+
+Alan:
+	- Yesterday: Finishing project, fixed bugs in program
+	- Today: Will be adding Junit tests with mockito
+	- Blockers: No issues.
+
+Nick:
+	- Yesterday: Added more functionality to the application, configured unit tests and logging
+	- Today: Finishing logging, unit tests, menu screens and adding a bit more functionality to the dao
+	- Blockers: No issues
+
+Tim: Absent
