@@ -1,0 +1,14 @@
+Andy
+Yesterday:Customer system employee done. 2 user stories left
+Today:Add bonus features and work on remaining user stories
+Blockers:Time
+
+Chris
+Yesterday:Slight redesign to database. Finished postgres classes. menu navigation commands
+Today:Get menu system mapped out. Finish pending offers.
+Blockers:Time, how to pass user to classes.
+
+Sergio
+Yesterday: Worked on user stories. Database adding and removing items.
+Today:Work on test cases, loggin, and remaining user stories
+Blockers:Time
