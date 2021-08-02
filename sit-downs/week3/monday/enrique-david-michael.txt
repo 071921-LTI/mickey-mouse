@@ -1,0 +1,24 @@
+Michael
+	-Yesterday
+		-completed daos and started on menu
+	-Today
+		-hopefully finish menu screen
+	-Blockers
+		-none
+
+David
+	-Yesterday
+		-tests and login
+	-today
+		-password hashing
+		-managers
+	-blockers
+		-password hashing doesn't work
+
+Enrique
+	-yesterday
+		-menu
+	-today
+		-finish menu
+	-blockers
+		-getting good with sql
