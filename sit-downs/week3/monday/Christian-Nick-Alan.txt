@@ -14,5 +14,3 @@ Nick:
 	- Yesterday: Added more functionality to the application, configured unit tests and logging
 	- Today: Finishing logging, unit tests, menu screens and adding a bit more functionality to the dao
 	- Blockers: No issues
-
-Tim: Absent
