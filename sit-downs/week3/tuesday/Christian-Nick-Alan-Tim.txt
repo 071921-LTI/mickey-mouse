@@ -1,0 +1,20 @@
+
+Scribe: Christian Osada
+	- Today: Finish impementing logger
+	- Yesterday: Finish implementing JUnit tests
+	- Blockers:
+
+	Tim
+	- Today: Logic busting the code and implementing logging in the program
+	- Yesterday: Fixed logic errors with offers not being shown properly or accepted properly
+	- Blockers: Time constraints
+
+	Alan
+	- Today: Adding logging and JUnit tests
+	- Yesterday: Completed project functionality
+	- Blockers: Trying to figure out how to do a unit test on the fake database
+
+	Nick
+	- Today: Finishing up project functionality
+	- Yesterday: Working on project functionality
+	- Blockers: Time, plenty of work left to do
