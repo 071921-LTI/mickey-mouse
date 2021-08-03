@@ -1,0 +1,26 @@
+Scribe: Andy
+
+chris
+	yesterday: 
+	-added paths to the functions everything is reachable 	through terminal
+	- fixing some interfacing
+	
+	today:
+	-testing and logging, transactions
+	-clean up returning and prints
+	
+	blockers:
+	-time
+	-logging
+	-testing 
+
+Andy
+	yesterday:
+	-fixing rejecting offers issue for when accepting an offer
+	-touched up interfaces
+	
+	today:
+	-try to implement logger and junit
+	
+	blockers:
+	-time and loggers unsure about
