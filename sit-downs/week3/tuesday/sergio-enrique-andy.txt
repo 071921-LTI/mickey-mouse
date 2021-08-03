@@ -24,3 +24,16 @@ Andy
 	
 	blockers:
 	-time and loggers unsure about
+
+Sergio
+	yeterday: 
+	-changed my focus from testing and logggin to finishing up all the user functions
+	-implemented customer functions such as make offer, view owned items. 
+	-restructured database
+
+	today:
+	-finish the few functions for employee,customer, and the system
+	-implement some testing and logging	
+
+	blockers:
+	-testing implementation
