@@ -1,0 +1,26 @@
+Michael
+	-Yesterday
+		-finished menu screen
+	-today
+		-finish up exceptions
+		-logs
+	-blockers
+		-none
+
+David
+	Yesterday
+		-made sure project works.
+		-added manager functionality
+	Today
+		-setting up demo
+	Blockers
+		-none
+
+Enrique
+	Yesterday
+		- added more to menu screen
+	Today
+		-finish last 3 features
+		-add tests and logs
+	Blockers
+		-time!
