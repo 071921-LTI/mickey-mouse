@@ -1,0 +1,33 @@
+Christian
+    -Yesterday
+        -Finished testing
+    -Today
+        -implement hibernate or change testing for hibernate
+    -Blockers
+        -none
+
+Sergio
+    -Yesterday
+        -set up project structure
+    -Today
+        -implement hibernate
+    -Blockers
+        -none
+
+Andy
+    -Yesterday
+        -set up project flow
+        -models
+    -Today
+        -connect hibernate
+    -Blockers
+        -nothing right now
+
+Enrique
+    -Yesterday
+        -setup project
+        -setup interfaces
+    -Today
+        -connect hibernate
+    -Blockers
+        -none right now
