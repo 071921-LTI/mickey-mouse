@@ -20,12 +20,18 @@ public class Pokemon {
 	private int id;
 	@Column
 	private String name;
-	@Column
-//	@ManyToOne( cascade = {CascadeType.PERSIST, CascadeType.MERGE}, targetEntity=Trainer.class )
-//    @JoinColumn(name="trainer_id")
+	@ManyToOne( cascade = {CascadeType.PERSIST, CascadeType.MERGE}, targetEntity=Trainer.class )
+    @JoinColumn(name="trainer_id")
 	private Trainer trainer;
 	@Column
 	private int poke_id;
+	
+	public Pokemon(String name, Trainer trainer, int poke_id) {
+		super();
+		this.name = name;
+		this.trainer = trainer;
+		this.poke_id = poke_id;
+	}
 	
 	public Pokemon(int id, String name, Trainer trainer, int poke_id) {
 		super();
