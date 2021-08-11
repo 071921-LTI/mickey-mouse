@@ -1,0 +1,37 @@
+Christian
+	-Yesterday
+		-activity
+	-Today
+		-applying hibernate to project
+		-adding http request helper
+		-refactor junit
+	-Blockers
+		-can't think of any
+
+Sergio
+	-Yesterday
+		-activity
+	-Today
+		-applying hibernate to project
+		-changing structure of project still
+	-Blockers
+		-none
+
+Andy
+	-Yesterday
+		-activity
+		-integrated hibernate to project
+	-Today
+		-more hibernate
+	-blockers
+		-none
+
+Enrique
+	-Yesterday
+		-activity
+		-getenv for hibernate
+	-Today
+		-hibernate annotations
+		-hopefully servlet
+	-blockers
+		-none
