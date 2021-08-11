@@ -1,0 +1,14 @@
+Tim
+Yesterday: Didn't do a lot, project status is mapped out db, geared everything in postgres before hibernate.
+Today: plan on getting authorized and logged in, getting user information back as a test
+Blockers: time and illness, no more headache but could happen.
+
+Micheal
+Yesterday: Had models done
+Today: Setting up hibernate stuff
+Blockers: None but maybe in the future
+
+David
+Yesterday: Had dao layer complete in postgres
+Today: moving dao to hibernate
+Blockers: None
