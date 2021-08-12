@@ -1,0 +1,35 @@
+
+
+
+Chris:
+________
+
+figured out how on join columns to foreign keys with hibernate using full objects 
+
+able to create user with hibernate
+
+database with hibernate is fully functional
+
+
+
+Alan:
+________
+
+added delegate for reimbursements, did get method
+
+added reimbursement daos
+
+tested with jdbc
+
+can call access database from postman
+
+
+
+
+
+Nick:
+________
+
+added delegates and front end controller
+
+able to add user records to database, through postman

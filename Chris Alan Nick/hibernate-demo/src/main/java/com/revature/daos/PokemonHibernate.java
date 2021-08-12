@@ -58,5 +58,4 @@ public class PokemonHibernate implements PokemonDao {
 			tx.commit();
 		}			
 	}
-	
 }
