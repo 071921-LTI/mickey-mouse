@@ -1,4 +1,4 @@
-Project Show Off
+PROJECT PROGRESS
 	-Sergio
 		- proud that it works!
 		- tried to redirect error to chrome dinosaur game
@@ -12,8 +12,44 @@ Project Show Off
 		- hibernate many to one
 		- figured out how to formulate statement, just have to test it
 
-Review
+REVIEW
 	- S3
-		-scalable object storage service
-		-manipulates storage into object based units
+		- Scalable Object Storage Service
+			- Eliminates the need for tiered file/folder set-up
+		- Faster data retrieval
+		- Less costly to store data
+		- Fewer limitations then with file or block storage
+
+	- RDS
+		- Relational Database Service
+			- A type of database that stores and provides access to data points that are related to one another
+		- A managed SQL database service made to simplify the set-up/operation/scaling of the application
+		- Performance metrics and monitoring available
+		- Automatic back-ups
+	- EC2
+		- Elastic Compute Clouding
+			- Allows users to rent virtual computers on which to run their own computer applications.
+		- Scalablle/elastic
+		- User is responsible for everything beyond provided hardware, IaaS
+
+		- AMI
+			- A special type of virtual appliance that is used to create a virtual machine within EC2
+			- Can be used to launch multiple instances
+				- If you need an instance with another configuration another AMI is needed
+		
+		- EBS
+			- Block-storage service designed for both throughput and transaction intensive workloads
+				- A sequence of bytes or bits, usually containing some whole number of records, having a maximum length; a block size.
+				- Allows that data to be spread across multiple environments
+			- Each is attached to  single instance of EC2
+			- Enables you to keep data persistently on a file system, even after the EC2 instance is shutdown
+			- Relates to S3, as you can backup EBS data on S3 by taking a snapshot
+
+		- Security Groups
+			- A virtual firewall to control ingoing and outgoing traffic for EC2 instances
+			- Allows you to filter traffic based on protocol and port numbers
+			- Can modify or add rules at any time
+				- Changes are apllied o all associated instances atomatically
+
+
 	
