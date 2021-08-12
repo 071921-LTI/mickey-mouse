@@ -1,0 +1,35 @@
+Service Definitions:
+	- S3
+		-"Simple Storage Service"
+		-Advantages
+			-Creating Buckets
+				-Buckets are fundamental containers for data storage in S3
+			-Storing Data
+				-Able to store an infinite amount of data in a bucket. Each individual Object can store up to 5TB of data, and is assigned a unique key
+			-Downloading Data
+				-Able to download your data, and allow others to do so as well
+			-Permissions
+				-Able to Grant or Deny access to others who want to upload or download data into the bucket.
+			-Uses REST and SOAP interfaces designed to work with any internet development toolkit.
+		
+	- RDS
+		-"Relational Data Storage"
+		-Able to choose between six database engines (Aurora, PostGreSQL, MySQL, MariaDB, Oracle DB, SQL Server)
+			-Able to use the AWS DB Migration Service to migrate data or replicate data from one type to another.
+		-More structured in terms of schema
+		-Highly scable, secured.
+		-Always available and Durable.
+	- EC2
+		-"Elastic Compute Cloud"
+		-Provides scalable computing capacity in the AWS cloud
+		-Able to launch virtual servers as per needed
+		- AMI
+			-Amazon Machine Image
+				-Information to launch an EC2 Instance
+				-Holds launch permissions for AWS
+				-Block Device Mapping
+					-How much storage the Elastic Block can hold.
+		- EBS
+			-"Elastic Block Storage"
+		- Security Groups
+			-Allows the user to create a firewall to let certain roles access the Server.
