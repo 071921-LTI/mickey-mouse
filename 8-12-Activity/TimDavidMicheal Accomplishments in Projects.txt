@@ -1,0 +1,12 @@
+What are we proud of(Projects/Training)
+
+
+Tim:
+	Used a JPA in order to design the tables that would be used for the ERS program. 
+		The JPA mapped everything that was originally developed using SQL and automatically translated it into Hibernate logic.
+
+Micheal
+	Showed off his tables and how he got it to work with Hibernate.
+	
+David:
+	Proud of the tests he's written. He admits to going overboard last project and noted he would restrain himself this time.
