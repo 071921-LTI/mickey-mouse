@@ -1,0 +1,19 @@
+Project Show Off
+	-Sergio
+		- proud that it works!
+		- tried to redirect error to chrome dinosaur game
+
+	-Christian
+		- add, get, getList working
+		- established connection with servlet
+	-Enrique
+		- no longer having error of trying to autoupdate user when adding a reimbursement
+	-Andy
+		- hibernate many to one
+		- figured out how to formulate statement, just have to test it
+
+Review
+	- S3
+		-scalable object storage service
+		-manipulates storage into object based units
+	
