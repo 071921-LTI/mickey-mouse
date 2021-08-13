@@ -1,0 +1,18 @@
+
+Christian
+    - What is hibernate?
+        - Given: Method of connecting a java program to an sql database through the creation of sessions.
+            Can map tables in the database. Reduces boilerplate code. Can abstract SQL queries away.
+        - Expected: ORM (Object Relational Mapping) framework for Java. Flexible for many SQL dialect. Reduces boilerplate code and lines needed to connect
+            Includes caching in order to reduce db calls
+    - What is Docker?
+        - Given: doesn't remember
+        - Expected: Tool using containers to avoid creating many instances of virtual machines
+    - How do you configure a servlet?
+        - Given: Name tag, servlet tag, mapping tag for url
+        - Expected: in web.xml you have servlet tag that has servlet name and servlet class then servlet-mapping tag also has
+            servlet name and url pattern
+    - What are the cloud computing models?
+        - Given: Infrastructure as a Service, Platform as a Service, Software as a Service
+        - Expected: same!
+
