@@ -1,0 +1,35 @@
+Christian
+    - Yesterday
+        - worked with hibernate to fix issues
+    - Today
+        - HTML and JavaScript
+    - Blockers
+        - familiarity with HTML and JavaScript
+
+Sergio
+    - Yesterday
+        - had to restructure some models
+    - Today
+        - finish up hibernate
+        - work on delegates
+        - frontend mvp
+    - Blockers
+        - none so far
+
+Andy
+    - Yesterday
+        - fixing hibernate
+        - employee service implementations and reimbursements
+    - Today
+        - server side and frontend
+    - Blockers
+        - none
+
+Enrique
+    - Yesterday
+        - wrote two methods inside of the reimbursements delegates
+    - Today
+        - ran into hibernate issue yesterday gonna fix Today
+        - continue in the backend
+    - Blockers
+        - hibernate issue i need to fix
