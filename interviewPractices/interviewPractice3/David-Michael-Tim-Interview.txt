@@ -1,0 +1,98 @@
+iterviewee - Tim
+iterviewer - David
+scribe - Michael
+
+1:
+Question: What is ACID?
+Given: ACID sql concept Atomicity run by itself Consistency run corrected each time sql Durability will not be tamptered
+Expected:
+Atomicity means that either all of the transactions will execute successfully or none of them will.
+Consistency means that constraints are enforced for every committed transaction. That indicates that all Keys, Data types, Checks, and Triggers are successful and no constraint violation is triggered.
+Isolation - If two transactions are executing concurrently and working on the same data, then one transaction should not disturb the other transaction. Isolation guarantees that concurrently running transactions should not affect each other.
+Durability means that once a transaction is complete, it guarantees that all of the changes are recorded in the database. If our system is suddenly affected by a system crash or a power outage, then all unfinished committed transactions may be replayed.
+
+2:
+Question: What is ajax?
+Given: Dont at this moment
+Expected: AJAX stands for Asynchronous JavaScript And XML. Ajax describes the process of exchanging data from a web server asynchronously with the help of XML, HTML, CSS, and JavaScript. 
+
+3:
+Question: What is a servlet? What about a servlet container? Which servlet container have you worked with?
+Given: A servlet is a function of java that javascript can call to excute java code. Allows us to work on backend interface with the backend. Using the front controller design pattern.
+Expected: A Servlet is a Java class that takes incoming requests, processes them, and generates a response to send back to the user. he Servlet container is the component of an application server that interacts with Java servlets and is responsible for managing the execution of servlets and JSP pages for Java applications.
+
+4:
+Question: What is the life cycle of a servlet?
+Given: life cycle of a servlet it's called, it gets created, runs it's code, and destroys 
+Expected: A servlet container manages the life cycle of a servlet. Servlet is an interface defined in javax.servlet package. A servlet container uses the Servlet interface to understand a specific Servlet object and manage it. FrontController
+		There are three life cycle methods of a Servlet :
+			init()
+			service()
+			destroy()
+
+iterviewee - david
+iterviewer - tim
+scribe - michael
+
+
+1:
+Question: Explain the different isolation levels. What read phenomena do each prevent?
+Given: different isolation levels -> different states of persisted dataread phenoma -> errors when trying to access data of different isolation levels
+Expected: 
+	- Serializable
+		- Allowed in Oracle
+		- Read/Write locks
+		- Applies range locks even in the WHERE clauses of a select statement
+		- Phantom reads can't happen because of this
+		- Table that is being read can't be modified until the reading is done (no INSERTS, no UPDATES, no DELETES)
+	- Repeatable Reads
+		- Not used often
+		- Read/Write locks
+		- Doesn't provide range locks, that means phantom reads can happen
+		- Doesn't lock the whole SELECT statement, nor INSERTS, nor UPDATES, nor DELETES
+	- Read Committed
+		- Oracle default
+		- Write only locks
+		- Only data that is committed will be seen by other transactions
+		- Dirty reads can't happen, but Phantom reads can
+		- This is why it is recommended to not perform very long transactions
+	- Read Uncommitted
+		- A disaster
+		- Dirty reads are normal, any transaction can see any uncommitted data
+		- Very inconsistent
+
+2:
+Question: Explain the difference between RequestDispatcher.forward() and HttpServletResponse.sendRedirect()
+Given: request dispatcher moves to different endpoint moves you to static webpage
+Expected: The RequestDispatcher.forward() method is used to pass the same request to a new destination resource, but the Response.sendRedirect() method is used to send an entirely new request for the destination resource. Any request attributes or parameters from the original request are lost.
+
+3:
+Question: Explain the front controller design pattern
+Given: front controller -> request helper -> delegates good for decoupling
+Expected: The front controller design pattern provides a single handler for all the incoming requests for a resource in an application, and then dispatches the requests to the appropriate secondary handler for that type of request. The front controller may use other helper APIs to achieve the dispatching mechanism.
+
+4:
+Question: What is tdd?
+Given: test driven developement write test first then implement.
+Expected: Given Answer Correct
+
+iterviewee - michael
+iterviewer - david
+scribe - tim
+
+1:
+Question: What is object mapping, and what are the Java Libraries for it?
+Given: Requests to know what class to access, not certain about the second part.
+Expected: Object Mapping: When Two different objects are incompatible, you map them so they are. Libraries are Jackson, Java.Persistence
+2:
+Question: What is the Fetch API?
+Given: How we interact to send and receive
+Expected: An Alternate way of making HTTP Requests.
+3:
+Question: What is DOM?
+Given: A Data structure
+Expected: It's the Document Object Model, this is how you would get an element from an HTML.
+4:
+Question: How would you get an Element?
+Given: Get Element By Id
+Expected: Get Element By Id, Get Elements By Name, etc, etc.
