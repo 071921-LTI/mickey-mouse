@@ -1,0 +1,60 @@
+Scribe: Nick
+
+interviewer: Chris
+
+interviewee: Alan
+
+
+review questions:
+_________________
+
+
+q1: what are stages for session factory?
+a1: session factory is an interface, singleton interface for creating session object
+
+q2: what is a transaction?
+a2: 3 different methods: begin commit or rollback, if all statements pass it will commit, if not it will rollback
+
+q3: what is lazy loading?
+a3: there is a proxy, until the object is used
+
+-------------------------------------------------------------------------
+
+Scribe: Nick
+
+interviewer: Alan
+
+interviewee: Chris
+
+
+review questions:
+_________________
+
+q1: what are 3 object states in hibernate?
+a1: transient, persisted, detached
+
+q2: what is docker?
+a2: type of vm that can host multiple containers, containers are built off of docker image which is built off of docker file
+
+q3: what is hibernate?
+a3: it is a way to interact with a database, using ORM object relational mapping
+
+
+
+-------------------------------------------------------------------------
+
+
+what is contained in a hibernate.cfg.xml?
+	hibernate config
+	session
+	property and mapping tags
+	
+what is javaScript?
+	scripting language, weakly typed, native programming language for web browsers
+	
+what is HTTP and what is in request and response
+	request comes from client to application, contains information sending to the server
+	response is a response to the request information with more information for client
+	
+	status codes 200-299 is ok, 300 ?, 400-499 not found or bad, 500 internal server error
+	http methods: GET POST PUT DELETE
