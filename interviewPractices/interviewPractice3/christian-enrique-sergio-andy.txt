@@ -1,5 +1,7 @@
+Scribe: Enrique
+Interviewer: Sergio
+Interviewee: Christian
 
-Christian
     - What is hibernate?
         - Given: Method of connecting a java program to an sql database through the creation of sessions.
             Can map tables in the database. Reduces boilerplate code. Can abstract SQL queries away.
@@ -15,4 +17,37 @@ Christian
     - What are the cloud computing models?
         - Given: Infrastructure as a Service, Platform as a Service, Software as a Service
         - Expected: same!
+
+======================================================================================================
+Scribe: Christian
+Interviewer: Enrique
+Interviewee: Sergio
+
+- What are JS objects? What is the syntax?
+Given: Stored values, any type of values. I don't know.
+Expected: The same as a typical object, but more flexible and can have any datatype put into it. For syntax its, var object = {name: "name", food: "food"}
+
+- Explain the front controller design pattern?
+Given: The design pattern is where you dont handle the request you just pas it onto a request helper to parse the given request.
+Expected: What was given.
+
+- What is REST?
+Given: An API that . . . . I don't remember.
+Expected: A set of architectural standards standards that if followed by an API make it RESTFUL.
+
+- What is lazy loading vs eager fetching?
+Given: I don't know.
+Expected: Eager fetching is retrieving the entire object when it is called for. While lazy loading is getting only an objects identifier and nothing else unless it is called for.
+
+
+
+
+
+
+
+
+
+
+
+
 
