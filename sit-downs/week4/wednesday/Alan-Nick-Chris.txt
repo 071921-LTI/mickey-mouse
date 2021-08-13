@@ -1,0 +1,35 @@
+Nick
+Yesterday: 
+added front end controller servlet and delegates for user off and reembersment
+
+Today:
+continue work on that and adding hibernate 
+
+Blockers:
+browser isnt working with project, needs to work on connection
+
+
+Alan
+Yesterday: 
+worked on user and reembersment model, created dao's and impliments postgress
+needs to change to hibernate
+
+Today:
+changing postgress to hibernate and add some servlet
+
+Blockers:
+not right now
+
+
+
+Chris
+Yesterday: 
+tested demos and went over information to get better understading
+
+Today:
+impliment hibernate moddels and mapping, hopefully set up a connection
+to front end from server
+
+Blockers:
+not great when it comes to connecting front end to back end so will need time
+to fully understand it
