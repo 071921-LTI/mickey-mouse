@@ -1,0 +1,23 @@
+Tim
+	- Today
+		- Accomplished submitting reimbursements, getting all reimbursements
+	- Tomorrow
+		- Confirm that all reimbursements work, start work on manager type
+	- blockers
+		- time, QC study efforts
+
+Michael
+	- Today
+		- Worked on getting all users on front end
+	- Tomorrow
+		- finish users work on res of employee views
+	- blockers
+		- none
+
+Enrique
+	- Today
+		- finished login, see all requests, see pending, and see resolved
+	- tomorrow
+		- submit requests
+	- blockers
+		- none
