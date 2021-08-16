@@ -1,0 +1,14 @@
+David
+Yesterday: Started on the front end.
+Today: Finish front end
+Blockers: add an approval
+
+Alan
+Yesterday: Worked on the front end employee page. Javascript function: submit,aprrove/deny request
+Today: Review for QC
+Blockers: None at the moment
+
+Sergio
+Yesterday: worked on backend and started the front end
+Today: Review for QC and work more on the front end
+Blockers: HTML syntax
