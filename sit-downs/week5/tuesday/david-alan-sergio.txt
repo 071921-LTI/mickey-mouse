@@ -1,0 +1,14 @@
+David
+Yesterday: Added apprval and deny. 
+Today: Add loggin and function to view all employee
+Blockers: No blockers
+
+Alan
+Yesterday: Review for QC. 
+Today: Work on front end functionality: approve/deny
+Blockers: Not sure how to start for filter functions
+
+Sergio
+Yesterday: Studied for QC
+Today: Work in front end to implement login
+Blockers: HTML syntax
