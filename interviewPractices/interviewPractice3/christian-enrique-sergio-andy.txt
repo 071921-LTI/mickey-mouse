@@ -1,0 +1,98 @@
+Scribe: Enrique
+Interviewer: Sergio
+Interviewee: Christian
+
+    - What is hibernate?
+        - Given: Method of connecting a java program to an sql database through the creation of sessions.
+            Can map tables in the database. Reduces boilerplate code. Can abstract SQL queries away.
+        - Expected: ORM (Object Relational Mapping) framework for Java. Flexible for many SQL dialect. Reduces boilerplate code and lines needed to connect
+            Includes caching in order to reduce db calls
+    - What is Docker?
+        - Given: doesn't remember
+        - Expected: Tool using containers to avoid creating many instances of virtual machines
+    - How do you configure a servlet?
+        - Given: Name tag, servlet tag, mapping tag for url
+        - Expected: in web.xml you have servlet tag that has servlet name and servlet class then servlet-mapping tag also has
+            servlet name and url pattern
+    - What are the cloud computing models?
+        - Given: Infrastructure as a Service, Platform as a Service, Software as a Service
+        - Expected: same!
+
+======================================================================================================
+Scribe: Christian
+Interviewer: Enrique
+Interviewee: Sergio
+
+- What are JS objects? What is the syntax?
+Given: Stored values, any type of values. I don't know.
+Expected: The same as a typical object, but more flexible and can have any datatype put into it. For syntax its, var object = {name: "name", food: "food"}
+
+- Explain the front controller design pattern?
+Given: The design pattern is where you dont handle the request you just pas it onto a request helper to parse the given request.
+Expected: What was given.
+
+- What is REST?
+Given: An API that . . . . I don't remember.
+Expected: A set of architectural standards standards that if followed by an API make it RESTFUL.
+
+- What is lazy loading vs eager fetching?
+Given: I don't know.
+Expected: Eager fetching is retrieving the entire object when it is called for. While lazy loading is getting only an objects identifier and nothing else unless it is called for.
+
+======================================================================================================
+Scribe: Sergio
+Interviewer: Christian
+Interviewee: Andy
+
+- Can you exlain ACID properties?
+Given: used to maintain transactions. A-autonomocy(seperate querys) C-consistency(data is consistent in database)I integrety(dont know) D-durabilty(data is still safe)
+Expected: A - all transactions will either pass or fail. C constrainst are enforced I - isolation two tractions should not disturb each other D - all changes are recorded
+
+- Can you explain HQL?
+Given: stand for hibernate query language used to have an abstract way of querying a database. 
+Expected: good. addition: object oriented based language
+
+- What is Jenkins?
+Given: Kind of like a container? Not sure.
+Expected: Self contained automated server.
+
+- What MVC design patter
+Given: Model view controller. seperation of concern. 
+Expected: Good answer.
+
+
+======================================================================================================
+Scribe: Sergio
+Interviewer: Andy
+Interviewee: Enrique
+
+- What is the cloud?
+Given: The cloud is a.. offers Iaas SaaS PaaS. Basically it offers services that can abstract away some day to day things you would normally have to do. Hard to define in one sentece.
+Expected: Notes say cost saving, provides scalability, and durability
+
+- What is a closure and when would you use it?
+Given: Closure is when.. When you have a value in a function. ouside the scope of the function. You would use it when you want to have a value you dont want it to be manipulted.
+Expected: A function is a group of reusable code which can be called anywhere in the program.
+
+- What is JPA
+Given: JPA is something about annotations. Standards of data. mapping of the data.
+Expected: Java Persistence API. a standard API for accessing, persisting and managing data between Java objects/classes and a relational database.
+
+- what is the life cycle of a servlet?
+Given: Cant think of it. 
+Expected:
+init() -The init() method is used to initialize the servlet.
+service() - The servlet container calls the service method each time a request for the servlet is received. 
+destroy() - The servlet container calls this method before removing the servlet instance from the service.
+
+
+
+
+
+
+
+
+
+
+
+

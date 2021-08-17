@@ -1,0 +1,13 @@
+Christian
+	- Last week: Made static web pages and made headway on connecting it to front end
+	- Today: Continue working on the above
+	- Blocker: Unfamiliar with Js and HTML
+Andy
+	- Last week: Using postman to make sure hibernate and HTTP handler was working correctly
+	- Today: Work on register/front end stuff
+	- Blocker: Not used to HTML and front end stuff and JS
+
+Nick
+	- Last week: made some static web pages with tables waiting to be populated
+	- Today: make sure everything with hibernate works right, maybe start on javascript
+	- Blocker: Trying to get hibernate to work, struggling a little bit
