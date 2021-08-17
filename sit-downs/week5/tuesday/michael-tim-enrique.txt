@@ -1,0 +1,30 @@
+Tim
+    - Today
+        - verify view all reimbursements based on user
+    - Tomorrow
+        - management
+    - Blockers
+        - couldn't push because github has forcibly transitioned ot password to ssh on friday. fixed it today
+
+Michael
+    - Yesterday
+        - finished login to employee or manager.
+        - started getting tables to display depending on user
+    - Today
+        - finish table of reimbursements
+        - finish employee side of app
+    - Blockers
+        - had trouble populating tables
+
+Enrique
+    - Yesterday
+        - view all reimbursements based on logged in employee
+        - view pending reimbursements
+        - view resolved reimbursements
+        - submit reimbursement
+    - Today
+        - view profile
+        - update profile
+        - get started on manager side
+    - Blockers
+        - forgot auth header thought it was a bug in my code and spent an hour debugging a bug that wasn't there
