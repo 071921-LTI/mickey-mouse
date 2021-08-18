@@ -1,0 +1,26 @@
+Tim
+	- Yesterday
+		- reimbursement acceptance and reject
+		- set up manager
+	- Today
+		- got reimbursement info on web page
+	- Blockers
+		- time
+
+Michael
+	- Yesterday
+		- reimb tables showing
+	- Today
+		- finishing employees side (edit profile)
+		- move on to manager side
+	- Blockers
+		- none
+
+Enrique
+	- Yesterday
+		- finished employee profile page and update
+		- finished manager dashboard
+	- Today
+		- finish manager side hopefully
+	- Blockers
+		- none
