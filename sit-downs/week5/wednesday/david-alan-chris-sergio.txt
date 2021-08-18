@@ -1,0 +1,19 @@
+David
+Yesterday: added logic to the project. 
+Today: Work on making the logger work. Work on cleaning up the project
+Blockers: Logger is not working
+
+Sergio
+Yesterday: some progress on the log in feature
+Today: keep working on the front end user stories: manager and employee functions
+Blockers: no major blockers at the moment
+
+Chris
+Yesterday: Authentication done over the weekend.
+Today: Implmenting stuff for front end
+Blockers: Time 
+
+Alan
+Yesterday: Reimbursement and filtering reimbursement
+Today: Still on front end. adding loggers for the back end
+Blockers: none
