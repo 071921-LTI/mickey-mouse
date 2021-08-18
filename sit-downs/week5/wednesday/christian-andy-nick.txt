@@ -1,0 +1,16 @@
+Wednesday Sit Down
+
+Christian:
+	- Yesterday: Finished connecting frontend to backend 
+	- Today: Work on having the retrieved information displayed o nthe actual HTML page
+	- Blockers: Unfamiliar with DOM manipulation
+
+Nick:
+	- Yesterday: Worked with frontend (in Js specifically)
+	- Today: Plans to get a handle on passing data between front/back end
+	- Blockers: Not familiar with JS
+
+Andy:
+	- Yesterday: Working on reimbursements page for the frontend (JS)
+	- Today: Working on having the information passed to the frontend being visable onthe page.
+	- Blockers: Not familiar with JS fetching/ajax
