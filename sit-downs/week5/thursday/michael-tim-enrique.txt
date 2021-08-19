@@ -1,0 +1,34 @@
+Tim
+	- Yesterday
+		- took stock of situation
+		- categorized thoughts
+		- managers can now resolve reimbursements
+		- managers can see who approved or reject reimbursements
+		- finished manager side
+	- Today
+		- view all employees as manager
+		- view reimbursement requests for a single employee
+		- log4j and testing
+		- css
+		- cleanup code
+	- Blockers
+		- time
+
+Michael
+	- Yesterday
+		- finished all employee stuff
+		- finished all manager stuff except approving and denying
+	- Today
+		- resolve requests
+		- logs
+	- Blockers
+		- no blockers
+
+Enrique
+	- Yesterday
+		- finished all but one manager feature
+	- Today
+		- style and had better frontend functionality
+	- Blockers
+		- none
+
