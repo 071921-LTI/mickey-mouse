@@ -1,0 +1,19 @@
+David
+Yesterday: touched up on front end
+Today: make a landing page. try angualr
+Blockers: no blockers
+
+Sergio
+Yesterday: worked on front end employee functions
+Today: finish up employee user stories and manager functions
+Blockers: some minor debuggin issues
+
+Chris
+Yesterday: finished reimbursement backend 
+Today: work on front end
+Blockers: displaying saved reimbursement
+
+Alan
+Yesterday: finished up the front end.
+Today: will be working on loging and testing
+Blockers: no blockers
