@@ -1,0 +1,20 @@
+8/19/21 Thursday Sitdowns
+
+Nick
+	Yesterday: working on javascript
+	Today: frontend functionalities
+	Blockers: fix some backend stuff and javascript
+
+Christian
+	Yesterday: did all functionality for employess, 
+                   ticket update and ticket accepting, show employee
+	Today: CSS and fix any blocks
+	Blockers: unfamilarity with CSS	
+
+
+Andy
+	Yesterday: worked on reimbursement and employee pages 
+		   can display basic info on the websites
+	Today: connect all pages together and add CSS
+	Blockers: unfamilarity with CSS
+		
