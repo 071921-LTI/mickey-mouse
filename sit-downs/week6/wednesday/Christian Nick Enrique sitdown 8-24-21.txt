@@ -1,0 +1,28 @@
+Enrique | Christian | Nick
+Standup Week 6
+Tueday
+
+_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+
+Enrique:
+__________________________
+today: work on the hibernate and dao layer
+yesterday: planned out the prioject together (pages functionality etc)
+blockers: none
+
+
+
+Christian:
+__________________________
+today: work on the hibernate and dao layer
+yesterday: planned out the prioject together (pages functionality etc)
+blockers: none
+
+
+
+Nick:
+__________________________
+today: work on setting up Junit test classes
+yesterday: planned out the prioject together (pages functionality etc)
+blockers: don't have access to RDS database yet
