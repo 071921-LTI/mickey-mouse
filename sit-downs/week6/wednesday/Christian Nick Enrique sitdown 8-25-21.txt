@@ -1,0 +1,28 @@
+Enrique | Christian | Nick
+Standup Week 6
+Wednesday
+
+_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+
+Enrique:
+__________________________
+today: going help to set up project as spring project, and plan out structure
+yesterday: worked on the hibernate and dao layer
+blockers: none
+
+
+
+Christian:
+__________________________
+today: going help to set up project as spring project, and plan out structure
+yesterday: worked on the hibernate and dao layer
+blockers: none
+
+
+
+Nick:
+__________________________
+today: going help to set up project as spring project, and plan out structure, will get help from teammates getting access to RDS database
+yesterday: worked on setting up Junit test classes
+blockers: don't have access to RDS database yet
