@@ -1,0 +1,18 @@
+Michael Wilder interview:
+-_-_-_-_-_-_-_-_-_-_-_-_
+
+q1: mike, 31 years old, peach tree south carolina, went to school for medical field in biology, lost interest went for comp sci in francis-mary, found coding more interesting
+
+q2: last project was porting an app from android over to ios the previous app from the last senior class, we started the process and almost finished it, but the professsor never got back to us.
+
+q3: we used agile, weekly scrums instead of daily, we did it incrimentally, it was developed then we added to it and added to it
+
+q4: there was a high level of technology problems, just learning a different way of developing, had to learn swift and go from android, how to actually develop the app for the IOS store
+
+q5: my favorite thing is how simple it can be and how complex it can be, it can make a lot of things simple, but you can also get joy from trying to figure out hard things
+
+q6: not really sure if I've had any disagreements
+
+q7: I would look up all the resources i could, find, do some tutorials, try things to learn the technology
+
+q7: an OOP, compiled language, portable, strictly typed, has automatic garbage collection
