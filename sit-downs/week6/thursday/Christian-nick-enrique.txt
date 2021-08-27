@@ -1,0 +1,14 @@
+Enrique
+	- Today: Finished setting up user controller/service test, wrote test for register methods
+	- Yesterday: Started to set up user controller/service test
+	- Blockers: None
+
+Nick
+	- Today: Finishing making API calls in backend
+	- Yesterday: making navbars for customer/employee in angular, and started making API calls in backend
+	- Blockers: Can't access the database
+
+Christian
+	- Today: Finish setting up login frontend/backend
+	- Yesterday: Started Makimg login stuff frontend/backend
+	- Blockers: None
