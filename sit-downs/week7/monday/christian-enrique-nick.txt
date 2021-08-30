@@ -1,0 +1,11 @@
+Christian
+  - Today: Worked on hiding components until login
+  - Blockers: None
+  
+Nick
+  - Today: Implementing API calls in the backend for later functionality
+  - Blockers: None
+  
+Enrique
+  - Today: Implementing API calls in the backend for later functionality
+  - Blockers: None
