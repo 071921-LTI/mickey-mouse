@@ -1,0 +1,14 @@
+Christian
+  - Yesterday: Workd on getting login/registration front-end up and running, set up a method to hide components until fully logged in
+  - Today: Add JUnit testing for login in backend and start working on customer pages/functionality
+  - Blocker: N/A
+   
+   Nick
+  - Yesterday: API call for book in backend (by title)
+  - Today: Finish API call for book in backend (by title)
+  - Blocker: 
+   
+   Enrique
+  - Yesterday: API call for books in backend (by author)
+  - Today: Finish/debug API call for books in backend (by author)
+  - Blocker: N/A
