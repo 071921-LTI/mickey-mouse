@@ -1,0 +1,27 @@
+Sitdown 9-1-21
+
+Nick, Christian, Enrique
+
+
+
+Nick 
+_____________
+yesterday: figured out how to fix getting different formated responses from API calls
+today: customer request book 
+blockers: none
+
+
+
+Christian
+_____________
+yesterday: figuring out login issue 
+today: working on the table display for customer, and then do purchase display
+blockers: none
+
+
+
+Enrique
+_____________
+yesterday: figured out how to fix getting different formated responses from API calls 
+today: employee search api page to add books to database
+blockers: none
