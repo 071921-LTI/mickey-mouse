@@ -1,0 +1,14 @@
+Christian
+  - Yesterday: Finished the customer purchase, andstarted the customer store page
+  - Today: Finish adding buy function to customer store page and search functions
+  - Blocker: N/A
+   
+   Nick
+  - Yesterday: Got angular page for customer requests up and running
+  - Today: Finish adding functionality to it through backend
+  - Blocker: N/A
+   
+   Enrique
+  - Yesterday: Added ability for employees can search API and add books to database, customers can now add/view wishlist
+  - Today: Add method to query database for available books (books where inventory is >0)
+  - Blocker: N/A
