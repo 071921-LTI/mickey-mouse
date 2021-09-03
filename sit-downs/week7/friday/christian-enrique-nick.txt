@@ -1,1 +1,14 @@
-1
+Christian
+  - Yesterday: Finish adding buy function to customer store page and search functions
+  - Today: Finishing adding author/title search function to shop, then start logging/JUnit implementation
+  - Blocker: N/A
+   
+   Nick
+  - Yesterday: Finish adding functionality customer request making through backend
+  - Today: Finish adding functionality for accepting requests on employee side
+  - Blocker: N/A
+   
+   Enrique
+  - Yesterday: Add method to query database for available books (books where inventory is >0), finished wishlist functionality
+  - Today: Helping with viewing accepting book requests
+  - Blocker: N/A
